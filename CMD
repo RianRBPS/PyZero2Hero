@@ -1,0 +1,10 @@
+cmd - abrir o terminal
+
+cd - onde estou?
+dir - o que existe onde estou?
+cd <Pasta> - trocar o diretório
+cd .. - voltar um diretorio
+
+py
+quit()
+
